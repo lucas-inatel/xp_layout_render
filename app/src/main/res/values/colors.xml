@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorFabCalendar">#d03c3c</color>
+    <color name="colorFabPosition">#4a90e2</color>
+    <color name="colorTextPrimary">#4583e5</color>
+    <color name="colorTextSecondary">#656565</color>
+    <color name="colorButtom">#75b77e</color>
+    <color name="colorLayer">#35404b</color>
+    <color name="colorWithe">#FFFFFF</color>
+</resources>

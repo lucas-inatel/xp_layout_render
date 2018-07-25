@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">XpLayout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_texto_principal">Texto principal</string>
+    <string name="label_texto_secundario">Texto secundário</string>
+    <string name="bt_fazer_checkin">Fazer check in</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="exemplo_endereco">Av. Barão do Rio Branco. 233 - Centro</string>
+    <string name="exemplo_telefone">35 3417-0000</string>
+    <string name="exemplo_email">contato@castelo.com.br</string>
+    <string name="label_localizacao">Localização</string>
+</resources>
